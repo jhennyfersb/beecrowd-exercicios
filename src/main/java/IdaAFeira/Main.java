@@ -1,5 +1,7 @@
 //https://www.beecrowd.com.br/judge/pt/problems/view/1281
 package IdaAFeira;
+
+
 import java.util.Map;
 import java.util.Scanner;
 import java.util.TreeMap;
